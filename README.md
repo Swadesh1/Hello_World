@@ -1,6 +1,4 @@
 # Hello_World
 New Repository
-yuhuyhyu
-hnuhyhbyubvyg
-ygugkjghuj
-hvgvhgvh
+my 1st programme
+git hub is amazing
